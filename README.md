@@ -13,3 +13,5 @@ y darle a run al java RegistroTareasApplication.java.
 
 Una vez levantada la API, podremos acceder a Swagger 
 http://localhost:8080/swagger-ui.html (El puerto podria variar)
+
+Mencionar que el proyecto se encuentra con una base de datos in-memory (H2)
